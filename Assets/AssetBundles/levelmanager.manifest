@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3898162399
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c89e36685cbe06dceaf7f497342734b6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7120747b87058742817fa3d772cad907
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6f3c133c330f27f4480bd33cc2df9a00, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/LevelManager.prefab
+Dependencies: []

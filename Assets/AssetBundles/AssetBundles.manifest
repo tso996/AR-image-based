@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3053211840
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: levelmanager
+      Dependencies: {}

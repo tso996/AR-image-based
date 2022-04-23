@@ -1,0 +1,1227 @@
+fileFormatVersion: 2
+guid: 621a69edfea241d42855ea3e9ad9aedd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 7al004
+    100002: 7al2
+    100004: Box019
+    100006: Box020
+    100008: Box021
+    100010: Box022
+    100012: Box023
+    100014: Box024
+    100016: Box025
+    100018: Box026
+    100020: Box027
+    100022: Box028
+    100024: Box029
+    100026: Box030
+    100028: Box031
+    100030: Box032
+    100032: Box033
+    100034: Box034
+    100036: Box035
+    100038: Box036
+    100040: Box037
+    100042: Box038
+    100044: Box039
+    100046: Box040
+    100048: Box041
+    100050: Box042
+    100052: Box043
+    100054: Box044
+    100056: Box045
+    100058: Box046
+    100060: Box047
+    100062: Box048
+    100064: Box049
+    100066: Box050
+    100068: Box051
+    100070: Box052
+    100072: Box053
+    100074: Box054
+    100076: Box055
+    100078: Box060
+    100080: Box066
+    100082: Box067
+    100084: Box068
+    100086: Box069
+    100088: Box070
+    100090: Box071
+    100092: Box072
+    100094: Box073
+    100096: Box074
+    100098: Box075
+    100100: Box077
+    100102: Box081
+    100104: Box083
+    100106: Box085
+    100108: Box086
+    100110: Box087
+    100112: Box088
+    100114: Box089
+    100116: Box090
+    100118: Box091
+    100120: Box092
+    100122: Box093
+    100124: Box094
+    100126: Box095
+    100128: Box096
+    100130: Box097
+    100132: Box098
+    100134: Box099
+    100136: Box100
+    100138: Box101
+    100140: Box102
+    100142: Box103
+    100144: Box106
+    100146: Box109
+    100148: Box110
+    100150: Box111
+    100152: Box113
+    100154: Box115
+    100156: Box118
+    100158: Box119
+    100160: Box120
+    100162: Box121
+    100164: Box122
+    100166: Box123
+    100168: Box124
+    100170: Box125
+    100172: Box126
+    100174: Box127
+    100176: Circle119
+    100178: Circle120
+    100180: Cylinder004
+    100182: Cylinder005
+    100184: Cylinder006
+    100186: Cylinder007
+    100188: Cylinder008
+    100190: Cylinder009
+    100192: Cylinder010
+    100194: Cylinder011
+    100196: Cylinder012
+    100198: Cylinder013
+    100200: Cylinder014
+    100202: Cylinder015
+    100204: door
+    100206: door002
+    100208: ecoPOLARpassive_leaf
+    100210: ecoPOLARpassive_uszczelkaskrzydlamala025
+    100212: glass
+    100214: Group003
+    100216: Group004
+    100218: Group009
+    100220: Group010
+    100222: Group011
+    100224: Group012
+    100226: Group013
+    100228: Group014
+    100230: Group015
+    100232: Group016
+    100234: group1
+    100236: group2
+    100238: group3
+    100240: group4
+    100242: handcenter004
+    100244: handcenter2
+    100246: handleft
+    100248: handleft002
+    100250: handright
+    100252: handright002
+    100254: //RootNode
+    100256: klamka_kwadratowa
+    100258: Line Rail001
+    100260: Line Rail002
+    100262: Line Rail003
+    100264: Line001
+    100266: Line002
+    100268: Line003
+    100270: Object001
+    100272: outside_panels
+    100274: pCube1
+    100276: pCube10
+    100278: pCube12
+    100280: pCube16
+    100282: pCube18
+    100284: pCube20
+    100286: pCube25
+    100288: pCube26
+    100290: pCube28
+    100292: pCube29
+    100294: pCube3
+    100296: pCube30
+    100298: pCube31
+    100300: pCube6
+    100302: pCube8
+    100304: pCylinder1
+    100306: pCylinder2
+    100308: pCylinder3
+    100310: Plane003
+    100312: Plane004
+    100314: Plane005
+    100316: Plane006
+    100318: polySurface1
+    100320: polySurface11
+    100322: polySurface13
+    100324: polySurface15
+    100326: polySurface17
+    100328: polySurface19
+    100330: polySurface2
+    100332: polySurface20
+    100334: polySurface21
+    100336: polySurface23
+    100338: polySurface24
+    100340: polySurface25
+    100342: polySurface27
+    100344: polySurface28
+    100346: polySurface29
+    100348: polySurface3
+    100350: polySurface30
+    100352: polySurface31
+    100354: polySurface33
+    100356: polySurface37
+    100358: polySurface38
+    100360: polySurface39
+    100362: polySurface5
+    100364: polySurface52
+    100366: polySurface53
+    100368: polySurface62
+    100370: polySurface63
+    100372: polySurface64
+    100374: polySurface65
+    100376: polySurface7
+    100378: polySurface70
+    100380: polySurface71
+    100382: polySurface72
+    100384: polySurface75
+    100386: polySurface76
+    100388: polySurface77
+    100390: polySurface79
+    100392: polySurface82
+    100394: polySurface83
+    100396: polySurface84
+    100398: polySurface85
+    100400: polySurface86
+    100402: polySurface87
+    100404: polySurface9
+    100406: pPlane1
+    100408: pPlane2
+    100410: Rect Stair001
+    100412: Rect Stair004
+    100414: rotation
+    100416: rotation002
+    100418: transform1
+    100420: transform10
+    100422: transform11
+    100424: transform12
+    100426: transform13
+    100428: transform14
+    100430: transform15
+    100432: transform16
+    100434: transform17
+    100436: transform18
+    100438: transform19
+    100440: transform2
+    100442: transform20
+    100444: transform21
+    100446: transform22
+    100448: transform23
+    100450: transform24
+    100452: transform25
+    100454: transform26
+    100456: transform27
+    100458: transform28
+    100460: transform29
+    100462: transform3
+    100464: transform30
+    100466: transform31
+    100468: transform32
+    100470: transform33
+    100472: transform34
+    100474: transform35
+    100476: transform36
+    100478: transform37
+    100480: transform38
+    100482: transform39
+    100484: transform4
+    100486: transform40
+    100488: transform41
+    100490: transform42
+    100492: transform43
+    100494: transform44
+    100496: transform45
+    100498: transform46
+    100500: transform47
+    100502: transform48
+    100504: transform49
+    100506: transform5
+    100508: transform50
+    100510: transform51
+    100512: transform52
+    100514: transform53
+    100516: transform54
+    100518: transform55
+    100520: transform6
+    100522: transform7
+    100524: transform8
+    100526: transform9
+    100528: uszczelka_wkladu
+    100530: zamek_strona
+    400000: 7al004
+    400002: 7al2
+    400004: Box019
+    400006: Box020
+    400008: Box021
+    400010: Box022
+    400012: Box023
+    400014: Box024
+    400016: Box025
+    400018: Box026
+    400020: Box027
+    400022: Box028
+    400024: Box029
+    400026: Box030
+    400028: Box031
+    400030: Box032
+    400032: Box033
+    400034: Box034
+    400036: Box035
+    400038: Box036
+    400040: Box037
+    400042: Box038
+    400044: Box039
+    400046: Box040
+    400048: Box041
+    400050: Box042
+    400052: Box043
+    400054: Box044
+    400056: Box045
+    400058: Box046
+    400060: Box047
+    400062: Box048
+    400064: Box049
+    400066: Box050
+    400068: Box051
+    400070: Box052
+    400072: Box053
+    400074: Box054
+    400076: Box055
+    400078: Box060
+    400080: Box066
+    400082: Box067
+    400084: Box068
+    400086: Box069
+    400088: Box070
+    400090: Box071
+    400092: Box072
+    400094: Box073
+    400096: Box074
+    400098: Box075
+    400100: Box077
+    400102: Box081
+    400104: Box083
+    400106: Box085
+    400108: Box086
+    400110: Box087
+    400112: Box088
+    400114: Box089
+    400116: Box090
+    400118: Box091
+    400120: Box092
+    400122: Box093
+    400124: Box094
+    400126: Box095
+    400128: Box096
+    400130: Box097
+    400132: Box098
+    400134: Box099
+    400136: Box100
+    400138: Box101
+    400140: Box102
+    400142: Box103
+    400144: Box106
+    400146: Box109
+    400148: Box110
+    400150: Box111
+    400152: Box113
+    400154: Box115
+    400156: Box118
+    400158: Box119
+    400160: Box120
+    400162: Box121
+    400164: Box122
+    400166: Box123
+    400168: Box124
+    400170: Box125
+    400172: Box126
+    400174: Box127
+    400176: Circle119
+    400178: Circle120
+    400180: Cylinder004
+    400182: Cylinder005
+    400184: Cylinder006
+    400186: Cylinder007
+    400188: Cylinder008
+    400190: Cylinder009
+    400192: Cylinder010
+    400194: Cylinder011
+    400196: Cylinder012
+    400198: Cylinder013
+    400200: Cylinder014
+    400202: Cylinder015
+    400204: door
+    400206: door002
+    400208: ecoPOLARpassive_leaf
+    400210: ecoPOLARpassive_uszczelkaskrzydlamala025
+    400212: glass
+    400214: Group003
+    400216: Group004
+    400218: Group009
+    400220: Group010
+    400222: Group011
+    400224: Group012
+    400226: Group013
+    400228: Group014
+    400230: Group015
+    400232: Group016
+    400234: group1
+    400236: group2
+    400238: group3
+    400240: group4
+    400242: handcenter004
+    400244: handcenter2
+    400246: handleft
+    400248: handleft002
+    400250: handright
+    400252: handright002
+    400254: //RootNode
+    400256: klamka_kwadratowa
+    400258: Line Rail001
+    400260: Line Rail002
+    400262: Line Rail003
+    400264: Line001
+    400266: Line002
+    400268: Line003
+    400270: Object001
+    400272: outside_panels
+    400274: pCube1
+    400276: pCube10
+    400278: pCube12
+    400280: pCube16
+    400282: pCube18
+    400284: pCube20
+    400286: pCube25
+    400288: pCube26
+    400290: pCube28
+    400292: pCube29
+    400294: pCube3
+    400296: pCube30
+    400298: pCube31
+    400300: pCube6
+    400302: pCube8
+    400304: pCylinder1
+    400306: pCylinder2
+    400308: pCylinder3
+    400310: Plane003
+    400312: Plane004
+    400314: Plane005
+    400316: Plane006
+    400318: polySurface1
+    400320: polySurface11
+    400322: polySurface13
+    400324: polySurface15
+    400326: polySurface17
+    400328: polySurface19
+    400330: polySurface2
+    400332: polySurface20
+    400334: polySurface21
+    400336: polySurface23
+    400338: polySurface24
+    400340: polySurface25
+    400342: polySurface27
+    400344: polySurface28
+    400346: polySurface29
+    400348: polySurface3
+    400350: polySurface30
+    400352: polySurface31
+    400354: polySurface33
+    400356: polySurface37
+    400358: polySurface38
+    400360: polySurface39
+    400362: polySurface5
+    400364: polySurface52
+    400366: polySurface53
+    400368: polySurface62
+    400370: polySurface63
+    400372: polySurface64
+    400374: polySurface65
+    400376: polySurface7
+    400378: polySurface70
+    400380: polySurface71
+    400382: polySurface72
+    400384: polySurface75
+    400386: polySurface76
+    400388: polySurface77
+    400390: polySurface79
+    400392: polySurface82
+    400394: polySurface83
+    400396: polySurface84
+    400398: polySurface85
+    400400: polySurface86
+    400402: polySurface87
+    400404: polySurface9
+    400406: pPlane1
+    400408: pPlane2
+    400410: Rect Stair001
+    400412: Rect Stair004
+    400414: rotation
+    400416: rotation002
+    400418: transform1
+    400420: transform10
+    400422: transform11
+    400424: transform12
+    400426: transform13
+    400428: transform14
+    400430: transform15
+    400432: transform16
+    400434: transform17
+    400436: transform18
+    400438: transform19
+    400440: transform2
+    400442: transform20
+    400444: transform21
+    400446: transform22
+    400448: transform23
+    400450: transform24
+    400452: transform25
+    400454: transform26
+    400456: transform27
+    400458: transform28
+    400460: transform29
+    400462: transform3
+    400464: transform30
+    400466: transform31
+    400468: transform32
+    400470: transform33
+    400472: transform34
+    400474: transform35
+    400476: transform36
+    400478: transform37
+    400480: transform38
+    400482: transform39
+    400484: transform4
+    400486: transform40
+    400488: transform41
+    400490: transform42
+    400492: transform43
+    400494: transform44
+    400496: transform45
+    400498: transform46
+    400500: transform47
+    400502: transform48
+    400504: transform49
+    400506: transform5
+    400508: transform50
+    400510: transform51
+    400512: transform52
+    400514: transform53
+    400516: transform54
+    400518: transform55
+    400520: transform6
+    400522: transform7
+    400524: transform8
+    400526: transform9
+    400528: uszczelka_wkladu
+    400530: zamek_strona
+    2100000: 19 - Default
+    2100002: Material.002
+    2100004: Material.001
+    2100006: Material.003
+    2100008: Material
+    2100010: 22 - Default
+    2100012: 23 - Default
+    2100014: 20 - Default
+    2100016: 15 - Default
+    2100018: 'Material #4'
+    2100020: standart_metal
+    2100022: st_gold
+    2100024: met
+    2100026: 21 - Default
+    2100028: 13 - Default
+    2100030: 24 - Default
+    2100032: 07 - Default
+    2100034: 14 - Default
+    2100036: 12 - Default
+    2100038: 09 - Default
+    2100040: 16 - Default
+    2100042: 17 - Default
+    2100044: 10 - Default
+    2100046: 11 - Default
+    2100048: 18 - Default
+    2100050: 'Material #1'
+    2100052: 07___Default
+    2100054: wire_140088225
+    2100056: _crayfishdiffuse
+    2100058: 02___Defaulsdfsdfst
+    2100060: 'Material #3'
+    2100062: 06 - Default
+    2100064: 05 - Default
+    2100066: 'Material #6'
+    2100068: 08 - Default
+    2100070: 'Material #8'
+    2300000: 7al004
+    2300002: 7al2
+    2300004: Box019
+    2300006: Box020
+    2300008: Box021
+    2300010: Box022
+    2300012: Box023
+    2300014: Box024
+    2300016: Box025
+    2300018: Box026
+    2300020: Box027
+    2300022: Box028
+    2300024: Box029
+    2300026: Box030
+    2300028: Box031
+    2300030: Box032
+    2300032: Box033
+    2300034: Box034
+    2300036: Box035
+    2300038: Box036
+    2300040: Box037
+    2300042: Box038
+    2300044: Box039
+    2300046: Box040
+    2300048: Box041
+    2300050: Box042
+    2300052: Box043
+    2300054: Box044
+    2300056: Box045
+    2300058: Box046
+    2300060: Box047
+    2300062: Box048
+    2300064: Box049
+    2300066: Box050
+    2300068: Box051
+    2300070: Box052
+    2300072: Box053
+    2300074: Box054
+    2300076: Box055
+    2300078: Box060
+    2300080: Box066
+    2300082: Box067
+    2300084: Box068
+    2300086: Box069
+    2300088: Box070
+    2300090: Box071
+    2300092: Box072
+    2300094: Box073
+    2300096: Box074
+    2300098: Box075
+    2300100: Box077
+    2300102: Box081
+    2300104: Box083
+    2300106: Box085
+    2300108: Box086
+    2300110: Box087
+    2300112: Box088
+    2300114: Box089
+    2300116: Box090
+    2300118: Box091
+    2300120: Box092
+    2300122: Box093
+    2300124: Box094
+    2300126: Box095
+    2300128: Box096
+    2300130: Box097
+    2300132: Box098
+    2300134: Box099
+    2300136: Box100
+    2300138: Box101
+    2300140: Box102
+    2300142: Box103
+    2300144: Box106
+    2300146: Box109
+    2300148: Box110
+    2300150: Box111
+    2300152: Box113
+    2300154: Box115
+    2300156: Box118
+    2300158: Box119
+    2300160: Box120
+    2300162: Box121
+    2300164: Box122
+    2300166: Box123
+    2300168: Box124
+    2300170: Box125
+    2300172: Box126
+    2300174: Box127
+    2300176: Circle119
+    2300178: Circle120
+    2300180: Cylinder004
+    2300182: Cylinder005
+    2300184: Cylinder006
+    2300186: Cylinder007
+    2300188: Cylinder008
+    2300190: Cylinder009
+    2300192: Cylinder010
+    2300194: Cylinder011
+    2300196: Cylinder012
+    2300198: Cylinder013
+    2300200: Cylinder014
+    2300202: Cylinder015
+    2300204: door
+    2300206: door002
+    2300208: ecoPOLARpassive_leaf
+    2300210: ecoPOLARpassive_uszczelkaskrzydlamala025
+    2300212: glass
+    2300214: handcenter004
+    2300216: handcenter2
+    2300218: handleft
+    2300220: handleft002
+    2300222: handright
+    2300224: handright002
+    2300226: klamka_kwadratowa
+    2300228: Line Rail001
+    2300230: Line Rail002
+    2300232: Line Rail003
+    2300234: Line001
+    2300236: Line002
+    2300238: Line003
+    2300240: Object001
+    2300242: outside_panels
+    2300244: Plane003
+    2300246: Plane004
+    2300248: Plane005
+    2300250: Plane006
+    2300252: Rect Stair001
+    2300254: Rect Stair004
+    2300256: uszczelka_wkladu
+    2300258: zamek_strona
+    3300000: 7al004
+    3300002: 7al2
+    3300004: Box019
+    3300006: Box020
+    3300008: Box021
+    3300010: Box022
+    3300012: Box023
+    3300014: Box024
+    3300016: Box025
+    3300018: Box026
+    3300020: Box027
+    3300022: Box028
+    3300024: Box029
+    3300026: Box030
+    3300028: Box031
+    3300030: Box032
+    3300032: Box033
+    3300034: Box034
+    3300036: Box035
+    3300038: Box036
+    3300040: Box037
+    3300042: Box038
+    3300044: Box039
+    3300046: Box040
+    3300048: Box041
+    3300050: Box042
+    3300052: Box043
+    3300054: Box044
+    3300056: Box045
+    3300058: Box046
+    3300060: Box047
+    3300062: Box048
+    3300064: Box049
+    3300066: Box050
+    3300068: Box051
+    3300070: Box052
+    3300072: Box053
+    3300074: Box054
+    3300076: Box055
+    3300078: Box060
+    3300080: Box066
+    3300082: Box067
+    3300084: Box068
+    3300086: Box069
+    3300088: Box070
+    3300090: Box071
+    3300092: Box072
+    3300094: Box073
+    3300096: Box074
+    3300098: Box075
+    3300100: Box077
+    3300102: Box081
+    3300104: Box083
+    3300106: Box085
+    3300108: Box086
+    3300110: Box087
+    3300112: Box088
+    3300114: Box089
+    3300116: Box090
+    3300118: Box091
+    3300120: Box092
+    3300122: Box093
+    3300124: Box094
+    3300126: Box095
+    3300128: Box096
+    3300130: Box097
+    3300132: Box098
+    3300134: Box099
+    3300136: Box100
+    3300138: Box101
+    3300140: Box102
+    3300142: Box103
+    3300144: Box106
+    3300146: Box109
+    3300148: Box110
+    3300150: Box111
+    3300152: Box113
+    3300154: Box115
+    3300156: Box118
+    3300158: Box119
+    3300160: Box120
+    3300162: Box121
+    3300164: Box122
+    3300166: Box123
+    3300168: Box124
+    3300170: Box125
+    3300172: Box126
+    3300174: Box127
+    3300176: Circle119
+    3300178: Circle120
+    3300180: Cylinder004
+    3300182: Cylinder005
+    3300184: Cylinder006
+    3300186: Cylinder007
+    3300188: Cylinder008
+    3300190: Cylinder009
+    3300192: Cylinder010
+    3300194: Cylinder011
+    3300196: Cylinder012
+    3300198: Cylinder013
+    3300200: Cylinder014
+    3300202: Cylinder015
+    3300204: door
+    3300206: door002
+    3300208: ecoPOLARpassive_leaf
+    3300210: ecoPOLARpassive_uszczelkaskrzydlamala025
+    3300212: glass
+    3300214: handcenter004
+    3300216: handcenter2
+    3300218: handleft
+    3300220: handleft002
+    3300222: handright
+    3300224: handright002
+    3300226: klamka_kwadratowa
+    3300228: Line Rail001
+    3300230: Line Rail002
+    3300232: Line Rail003
+    3300234: Line001
+    3300236: Line002
+    3300238: Line003
+    3300240: Object001
+    3300242: outside_panels
+    3300244: Plane003
+    3300246: Plane004
+    3300248: Plane005
+    3300250: Plane006
+    3300252: Rect Stair001
+    3300254: Rect Stair004
+    3300256: uszczelka_wkladu
+    3300258: zamek_strona
+    4300000: Line001
+    4300002: 7al2
+    4300004: handleft
+    4300006: handcenter2
+    4300008: door
+    4300010: handright
+    4300012: Box074
+    4300014: Box075
+    4300016: Box077
+    4300018: Line002
+    4300020: Box081
+    4300022: ecoPOLARpassive_leaf
+    4300024: zamek_strona
+    4300026: glass
+    4300028: outside_panels
+    4300030: uszczelka_wkladu
+    4300032: ecoPOLARpassive_uszczelkaskrzydlamala025
+    4300034: klamka_kwadratowa
+    4300036: Circle120
+    4300038: Circle119
+    4300040: Box083
+    4300042: Box085
+    4300044: Box086
+    4300046: Box087
+    4300048: Box088
+    4300050: Box089
+    4300052: Box090
+    4300054: Box091
+    4300056: Box092
+    4300058: Line003
+    4300060: 7al004
+    4300062: door002
+    4300064: handcenter004
+    4300066: handright002
+    4300068: handleft002
+    4300070: Box106
+    4300072: Box109
+    4300074: Box110
+    4300076: Box111
+    4300078: Box113
+    4300080: Box115
+    4300082: Box118
+    4300084: Box119
+    4300086: Box051
+    4300088: Cylinder012
+    4300090: Cylinder011
+    4300092: Box054
+    4300094: Cylinder010
+    4300096: Box060
+    4300098: Box066
+    4300100: Box053
+    4300102: Plane005
+    4300104: Box052
+    4300106: Box055
+    4300108: Box067
+    4300110: Box068
+    4300112: Box069
+    4300114: Box070
+    4300116: Box071
+    4300118: Box072
+    4300120: Box073
+    4300122: Cylinder013
+    4300124: Cylinder014
+    4300126: Cylinder015
+    4300128: Plane006
+    4300130: Box019
+    4300132: Box020
+    4300134: Box021
+    4300136: Box022
+    4300138: Box023
+    4300140: Box024
+    4300142: Box025
+    4300144: Box026
+    4300146: Box027
+    4300148: Box028
+    4300150: Box029
+    4300152: Box030
+    4300154: Box031
+    4300156: Box032
+    4300158: Box033
+    4300160: Box034
+    4300162: Cylinder004
+    4300164: Cylinder005
+    4300166: Cylinder006
+    4300168: Plane003
+    4300170: Cylinder007
+    4300172: Cylinder008
+    4300174: Cylinder009
+    4300176: Box035
+    4300178: Box036
+    4300180: Box037
+    4300182: Box038
+    4300184: Box039
+    4300186: Box040
+    4300188: Box041
+    4300190: Box042
+    4300192: Box043
+    4300194: Box044
+    4300196: Box045
+    4300198: Box046
+    4300200: Box047
+    4300202: Box048
+    4300204: Box049
+    4300206: Box050
+    4300208: Plane004
+    4300210: Box120
+    4300212: Box121
+    4300214: Rect Stair001
+    4300216: Rect Stair004
+    4300218: Line Rail001
+    4300220: Line Rail002
+    4300222: Line Rail003
+    4300224: Box122
+    4300226: Box123
+    4300228: Box124
+    4300230: Object001
+    4300232: Box125
+    4300234: Box126
+    4300236: Box127
+    4300238: Box103
+    4300240: Box102
+    4300242: Box101
+    4300244: Box100
+    4300246: Box099
+    4300248: Box098
+    4300250: Box097
+    4300252: Box096
+    4300254: Box095
+    4300256: Box094
+    4300258: Box093
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02___Defaulsdfsdfst
+    second: {fileID: 2100000, guid: 9f1b7990e4b5bf34da4cd6ba8d113c5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05 - Default
+    second: {fileID: 2100000, guid: dd3ffba3c2f352a498318761375bcdc0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 06 - Default
+    second: {fileID: 2100000, guid: d61a7294fe963e54085ad3e3cbe9be2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07 - Default
+    second: {fileID: 2100000, guid: 438a54451599d5642aee014221c416d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 07___Default
+    second: {fileID: 2100000, guid: 28213321f4a5794458704d9f1c7910d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 08 - Default
+    second: {fileID: 2100000, guid: c84c9a86ee57b85498efb2d6f7e91033, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 09 - Default
+    second: {fileID: 2100000, guid: 1c15cf3b1cc98ba4a8cd19245350e7dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 10 - Default
+    second: {fileID: 2100000, guid: f9bd775cdfd2cba44a587de4cff5800b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 11 - Default
+    second: {fileID: 2100000, guid: db349f37063af8f44b9fe54047c2616b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 12 - Default
+    second: {fileID: 2100000, guid: f3e581667950101479c03c6868ec36c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 13 - Default
+    second: {fileID: 2100000, guid: be424f7adfe151c4d86a6ac7737d8d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 14 - Default
+    second: {fileID: 2100000, guid: 19c1ac71d237c664dbe3e6bbd454f75b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 15 - Default
+    second: {fileID: 2100000, guid: c3e147341f8548d42be2686ade132352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 16 - Default
+    second: {fileID: 2100000, guid: 166caf55e9f6bc648b1e8aafca944b9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 17 - Default
+    second: {fileID: 2100000, guid: 12d362b693d8e1540adbabcec6fecead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 18 - Default
+    second: {fileID: 2100000, guid: af5c97bb388c77d4eb2eac704171858b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 19 - Default
+    second: {fileID: 2100000, guid: ea7ebcd2589f54b4c92a6904b9571827, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20 - Default
+    second: {fileID: 2100000, guid: 05b36f4d9493ff04eabbe99b6b3950e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21 - Default
+    second: {fileID: 2100000, guid: 4fbf9b88a29ba214997ef56f9437e218, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 22 - Default
+    second: {fileID: 2100000, guid: 6979046f101c6fc429ee5a239ba989e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 23 - Default
+    second: {fileID: 2100000, guid: f88d5e2760e58cd4bbd4bce4c1937b25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 24 - Default
+    second: {fileID: 2100000, guid: f0f3cd9a2a19751459024016111c92e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: cdc915e566aaade4cb6abd19a9431ace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1'
+    second: {fileID: 2100000, guid: d36fc810ecafbd148b404a1eb7c1a121, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #3'
+    second: {fileID: 2100000, guid: 1b635ac8fd3304346a66fa7acb35a815, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #4'
+    second: {fileID: 2100000, guid: ba98f17c7c1a36b43b94bbb09e49598b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #6'
+    second: {fileID: 2100000, guid: 3bd79463321b678458d00597505da323, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #8'
+    second: {fileID: 2100000, guid: ab228d08bc64d124c918f4e7f8a5eec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 6cc0284a29888fd4b877474c2308f9bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 16278f47bd33bd34e8bdbaedf21dca38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 148916188c85ed5468de70439455013b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _crayfishdiffuse
+    second: {fileID: 2100000, guid: 5b758cd78c802d7458e40d76ff482dac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: met
+    second: {fileID: 2100000, guid: ca0a22695363df8498fde8e30e1726d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: st_gold
+    second: {fileID: 2100000, guid: c436157ffdbb20f47b8b638e03c920e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standart_metal
+    second: {fileID: 2100000, guid: 8b432ec1f518ebf489caa9ab5514c979, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_140088225
+    second: {fileID: 2100000, guid: 9888cc292a11f3d46aa135c3555e46e3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
